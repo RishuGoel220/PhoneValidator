@@ -1,0 +1,6 @@
+framework module Pods_NumberDialer {
+  umbrella header "Pods-NumberDialer-umbrella.h"
+
+  export *
+  module * { export * }
+}
